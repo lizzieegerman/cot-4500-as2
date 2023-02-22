@@ -119,7 +119,7 @@ if __name__ == "__main__":
     x = [3.6, 3.8, 3.9]
     y = [1.675, 1.436, 1.318]
     dy = [-1.195, -1.188, -1.182]
-    print(divided_difference_method)
+    divided_difference_method(x, y, dy)
 
 # Question 5 outputs   
 print(matrix_5)
